@@ -4,7 +4,7 @@
 
 United Dairy Farmers is a chain of stores offering dairy products and retail items. As per the staff at UDF and Google Maps results, the UDF store at Clifton Avenue typically witnesses the rush around 9:00 PM to 11:00 PM every day. Because of the rush, the average waiting time of customers in queues at the billing counter and milkshake counter increases considerably. Moreover, many of the customers leave the outlet and prefer to buy their dairy products, beverage and milkshakes from other stores nearby to avoid long queues at UDF, resulting in loss of potential revenue for the UDF store. This project aims to improve customer service operations at UDF by minimizing the customer waiting times and optimizing the utilizations of UDF staff members.
 
-![](Arena Model.png)
+![](ArenaModel.png)
 
 ## Objectives	
 
