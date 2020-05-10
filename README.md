@@ -20,7 +20,7 @@ The purpose of this project is to develop a simulation model of United Dairy Far
 *	Arena Model used for simulation
 *	Final Report comparing different combination of queues and servers.
 
-Key Features Analyzed: Waiting Time, Percentage customer Served, Utilization of servers, Queue Length.
+**Key Features Analyzed:** Customer Waiting Time, Percentage of Customers Served, Utilization of Resources, Queue Length.
 
 
 
